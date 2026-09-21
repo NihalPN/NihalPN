@@ -37,5 +37,5 @@ AWS · Docker · GitHub Actions · XGBoost · RAG · LLM APIs
 
 ## Links
 
-[Portfolio]((https://mnihal-e7i4sysy0-mine-ce33.vercel.app/)) ·
+[Portfolio](https://mnihal-e7i4sysy0-mine-ce33.vercel.app/) ·
 [LinkedIn](https://www.linkedin.com/in/mohammed-nihal007/)
