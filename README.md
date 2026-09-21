@@ -1,16 +1,41 @@
-## Hi there 👋
+# Muhammed Nihal P N
 
-<!--
-**NihalPN/NihalPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer · AI/ML · Data Systems
 
-Here are some ideas to get you started:
+I build intelligent software systems, data pipelines, and backend infrastructure
+with Python, TypeScript, AWS, and modern AI tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work spans:
+
+- AI / LLM systems and RAG
+- Data engineering and serverless pipelines
+- Machine learning and time-series forecasting
+- Backend APIs and production software
+- Quantitative analytics and market intelligence
+- Robotics and simulation
+
+## Selected Systems
+
+### EnergySignal AI
+Electricity-market forecasting and quantitative analytics platform for the
+German DE-LU power market.
+
+### Momentum SEC AI Lakehouse
+Serverless financial intelligence pipeline processing SEC filings with AWS
+and LLM-powered structured extraction.
+
+### MarketShield AI
+Multi-source market surveillance and anomaly detection platform.
+
+### VeritasAI
+Citation verification system for AI-generated research content.
+
+## Stack
+
+Python · TypeScript · React · Next.js · FastAPI · PostgreSQL ·
+AWS · Docker · GitHub Actions · XGBoost · RAG · LLM APIs
+
+## Links
+
+[Portfolio]((https://mnihal-e7i4sysy0-mine-ce33.vercel.app/)) ·
+[LinkedIn](https://www.linkedin.com/in/mohammed-nihal007/)
