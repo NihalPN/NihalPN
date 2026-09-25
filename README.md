@@ -29,6 +29,18 @@ Multi-source market surveillance and anomaly detection platform.
 
 ### VeritasAI
 Citation verification system for AI-generated research content.
+## Open Source
+
+### RepoGuard
+Contributed `RULE-PY-01` to RepoGuard, an architecture-linting tool.
+
+- Added FastAPI route-layer detection
+- Added SQLAlchemy / SQLModel database-boundary checks
+- Added Git diff line-offset handling
+- Added automated regression tests
+- PR #3 — merged into `main`
+
+[View contribution](https://github.com/taylormatematica-beep/repoguard/pull/3)
 
 ## Stack
 
